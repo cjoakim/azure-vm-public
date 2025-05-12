@@ -6,3 +6,4 @@ Faker
 docopt
 duckdb
 httpx
+python-dotenv

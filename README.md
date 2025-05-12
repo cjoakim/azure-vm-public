@@ -40,5 +40,5 @@ $ curl http://<IP-Address>/data/top-pypi-packages.csv
 $ sudo apt-get update
 $ sudo apt-get upgrade  #Optional
 $ sudo apt install python3-pip
-
+$ sudo apt install python3.12-venv
 ```
