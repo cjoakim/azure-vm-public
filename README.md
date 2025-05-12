@@ -33,3 +33,12 @@ See the PID of the process running the server
 ```
 $ curl http://<IP-Address>/data/top-pypi-packages.csv
 ```
+
+## DuckDB Client
+
+```
+$ sudo apt-get update
+$ sudo apt-get upgrade  #Optional
+$ sudo apt install python3-pip
+
+```

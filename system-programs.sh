@@ -11,6 +11,10 @@ echo "python3:"
 which python3
 python3 --version
 
+echo "pip:"
+which pip
+pip --version
+
 # git:
 # /usr/bin/git
 # git version 2.43.0
