@@ -8,12 +8,12 @@ ssh into the VM, then clone this repo:
 
 ```
 git clone https://github.com/cjoakim/azure-vm-public.git
-```
 
-## Use
 
-```
 cd azure-vm-public
 
 sudo python3 -m http.server 80
+CTRL-C 
+
+
 ```
